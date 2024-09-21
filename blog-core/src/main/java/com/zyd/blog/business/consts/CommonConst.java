@@ -9,11 +9,12 @@ package com.zyd.blog.business.consts;
  * @date 2018/4/16 16:26
  * @since 1.0
  */
+
 public class CommonConst {
     /**
      * 安全密码(UUID生成)，作为盐值用于用户密码的加密
      */
-    public static final String ZYD_SECURITY_KEY = "929123f8f17944e8b0a531045453e1f1";
+    public static final String ZYD_SECURITY_KEY = "we2sf234234234sdf232432423wre234";
 
     /**
      * 程序默认的错误状态码

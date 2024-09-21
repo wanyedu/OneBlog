@@ -66,12 +66,12 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <mainClass>com.zyd.blog.BlogAdminApplication</mainClass>
-                    <layout>JAR</layout>
-                    <!--构建完整可执行程序，可以直接运行-->
-                    <executable>true</executable>
-                </configuration>
+<!--                <configuration>-->
+<!--                    <mainClass>com.zyd.blog.BlogAdminApplication</mainClass>-->
+<!--                    <layout>JAR</layout>-->
+<!--                    &lt;!&ndash;构建完整可执行程序，可以直接运行&ndash;&gt;-->
+<!--                    <executable>true</executable>-->
+<!--                </configuration>-->
             </plugin>
         </plugins>
     </build>
